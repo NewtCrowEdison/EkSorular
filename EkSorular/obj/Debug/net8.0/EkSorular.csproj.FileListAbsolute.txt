@@ -1,0 +1,14 @@
+C:\Users\Merve\source\repos\EkSorular\bin\Debug\net8.0\EkSorular.exe
+C:\Users\Merve\source\repos\EkSorular\bin\Debug\net8.0\EkSorular.deps.json
+C:\Users\Merve\source\repos\EkSorular\bin\Debug\net8.0\EkSorular.runtimeconfig.json
+C:\Users\Merve\source\repos\EkSorular\bin\Debug\net8.0\EkSorular.dll
+C:\Users\Merve\source\repos\EkSorular\bin\Debug\net8.0\EkSorular.pdb
+C:\Users\Merve\source\repos\EkSorular\obj\Debug\net8.0\EkSorular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve\source\repos\EkSorular\obj\Debug\net8.0\EkSorular.AssemblyInfoInputs.cache
+C:\Users\Merve\source\repos\EkSorular\obj\Debug\net8.0\EkSorular.AssemblyInfo.cs
+C:\Users\Merve\source\repos\EkSorular\obj\Debug\net8.0\EkSorular.csproj.CoreCompileInputs.cache
+C:\Users\Merve\source\repos\EkSorular\obj\Debug\net8.0\EkSorular.dll
+C:\Users\Merve\source\repos\EkSorular\obj\Debug\net8.0\refint\EkSorular.dll
+C:\Users\Merve\source\repos\EkSorular\obj\Debug\net8.0\EkSorular.pdb
+C:\Users\Merve\source\repos\EkSorular\obj\Debug\net8.0\EkSorular.genruntimeconfig.cache
+C:\Users\Merve\source\repos\EkSorular\obj\Debug\net8.0\ref\EkSorular.dll
